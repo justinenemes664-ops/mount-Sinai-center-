@@ -1,0 +1,14 @@
+{
+  "name": "mount-sinai-center",
+  "version": "1.0.0",
+  "description": "Mount Sinai Center Website and WhatsApp Automation System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
